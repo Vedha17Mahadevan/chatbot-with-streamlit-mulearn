@@ -50,7 +50,31 @@ This makes the chatbot:
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/<your-username>/simple-chatbot.git
 cd simple-chatbot
+```
+
+### 2. Create and Activate Virtual Environment (Optional but Recommended)
+```bash
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS / Linux
+# source venv/bin/activate
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4.Start the Chatbot Web App
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🎥 Demo
+Deployed App: [Try it out here](https://chatbot-with-app-mulearngit-musegqhhfysfsagdv5jv5j.streamlit.app/)
