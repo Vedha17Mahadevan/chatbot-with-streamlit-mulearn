@@ -1,7 +1,6 @@
 # Simple Chatbot 🤖
 
-A simple **rule-based chatbot** built with **Python + Streamlit** for the µLearn task  
-`#cl-ai-chatbot` (Build a Simple Chatbot – 250 Karma Points).
+A simple **rule-based chatbot** built with **Python + Streamlit** for the µLearn task.
 
 ---
 
